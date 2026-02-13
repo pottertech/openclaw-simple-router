@@ -1,9 +1,9 @@
 ---
-name: simple-router
+name: openclaw-simple-router
 description: Lightweight rule-based LLM router for dynamic model selection. Automatically routes prompts to optimal Ollama models (qwen2.5:7b, kimi-k2.5, deepseek-v3.2) based on content analysis using regex patterns. Use when needing cost-effective model selection, automatic tier classification, or coding task detection for local LLM inference.
 ---
 
-# Simple Router
+# OpenClaw Simple Router
 
 Lightweight rule-based router for Ollama models. Replaces expensive cloud routing with fast local regex classification.
 
